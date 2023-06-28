@@ -22,14 +22,14 @@ mis perspectivas de las cosas que existen en el mundo que ya creiamos haberlos r
 __¿Que Tecnologuias Manejo?__<br><hr>
 1. [ ] JavaScripts,<br>
 2. [ ] React,<br>
-3. []Redux,<br>
-4. NodeJs,<br>
-5. Visual Studio,<br>
-6. Base de Datos SQL y No SQL,<br>
-7. Angular,<br>
-8. Git,<br>
+3. [ ] Redux,<br>
+4. [ ] NodeJs,<br>
+5. [ ] Visual Studio,<br>
+6. [ ] Base de Datos SQL y No SQL,<br>
+7. [ ] Angular,<br>
+8. [ ] Git,<br>
 
-- ||Html||CSS||JavaScript.<br>
+- [ ] || Html || CSS || JavaScript.<br>
 
 __Tecnico en Computación e Informatica-Developers__ <br>
 ```Mis habilidades son: <br> 
